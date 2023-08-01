@@ -1,1 +1,1 @@
-words = ['Hello', 'Thank you']
+words = ['Hello', 'Thank you','Mannen']
