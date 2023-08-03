@@ -3,8 +3,8 @@
 # If the customer is from South Africa, apply the SA bank charges, otherwise the normal bank charges
 # As the customer how much they want to deposit or withdraw.
 # Execute the transaction and print their current balance.
-from bank import NetBank, Capitec, SABank, Bank
-from customerlist import SignUp
+from ATM.bank import NetBank, Capitec, SABank, Bank
+from ATM.customerlist import SignUp
 import time
 
 

@@ -1,4 +1,4 @@
-from bank import Bank, SABank, NetBank
+from ATM.bank import Bank, SABank, NetBank
 
 
 # here we are withdrawing an amount from all the class objects.
